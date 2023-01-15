@@ -1,6 +1,6 @@
-1.variable                                           
-2.type                                       
-3. alert                                    
+1.variable
+2.type
+3. alert  
 4. confirm, prompt                            
 5. Number.parseInt, Number.parseFloat        
 6. toFixed(digits)                            
@@ -14,4 +14,4 @@
 14. comparison-operations
 15. logical operators && ,||
 16. operator decompression if 
-17. task  
+17. task
