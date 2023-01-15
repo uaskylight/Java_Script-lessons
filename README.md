@@ -14,6 +14,5 @@
 13. slice()
 14. comparison-operations
 15. logical operators && ,||
-16. oper![FB_IMG_1588064581210](https://user-images.githubusercontent.com/71728284/212549674-67a2617b-20c1-402e-b474-9187aac00e35.jpg)
-ator decompression if 
+16. operator decompression if 
 17. task
