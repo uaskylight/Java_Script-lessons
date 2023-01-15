@@ -13,10 +13,5 @@
 13. slice()
 14. comparison-operations
 15. logical operators && ,||
-<<<<<<< HEAD
-16. task
-17. operator decompression if
-=======
 16. operator decompression if 
 17. task  
->>>>>>> 20ba1187e5f7e712cf3424acd051ecaf3cdf2619
