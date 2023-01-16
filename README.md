@@ -1,3 +1,5 @@
+LESSON 1.1
+
 1. variable                                           
 2. type                                       
 3. alert                                    
@@ -15,3 +17,5 @@
 15. logical operators && ,||
 16. operator decompression if 
 17. task  
+
+LESSON 1.2
