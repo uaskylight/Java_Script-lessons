@@ -19,3 +19,10 @@ LESSON 1.1
 17. task  
 
 LESSON 1.2
+
+План заняття
+Switch
+Цикл for
+Завдання
+Codewars
+DOM
