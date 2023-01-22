@@ -234,9 +234,55 @@
 
 //////////////////////////////////////////////////////////
 
+// const title = 'Top 10 benefits of React framework';
+
+// const normalised = title.toLowerCase();
+// const word = normalised.split(' ').join('-');
+// // const x = word.join('-')
+
+// console.log(word);
 
 
-//////////////////////  or
+////////////////////////////////////////////////////////////
+
+// const array1 = [2, 6, 83, 23];
+// const array2 = [43, 7, 65, 12];
+// let total = 0;
+
+// const numbers = array1.concat(array2)
+
+// for (number of numbers) {
+//     total +=number
+// }
+// console.log(total);
+
+/////////////////////////////////////////////////////
+
+///////// splice
+
+// const cards = ["cart-1", "cart-2", "cart-3", "cart-4", "cart-5"];
+
+
+// const cardRemove = "cart-3"; //delete
+// const index = cards.indexOf(cardRemove);
+// cards.splice(index, 1);
+
+// console.table(cards);
+
+// cards.push('real')
+// console.table(cards);
+// cards.unshift('milan')
+// console.table(cards);
+// cards.splice(3, 0, 'napoli');
+// console.table(cards);
+// cards.pop()
+// console.table(cards);
+
+
+/////////////////////////////////////////////////
+
+
+
 
 
 
